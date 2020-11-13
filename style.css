@@ -1,0 +1,282 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+.navfirstspace{
+    background-color: #333;
+    margin: 0px;
+    padding: 0px;
+}
+.navSecondspace{
+    margin: 0px;
+    padding: 0px;
+}
+.topnav {
+    width: 100%;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 8px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .topnav a:not(:first-child) {
+        display: none;
+    }
+
+    .topnav a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .topnav.responsive {
+        position: relative;
+    }
+
+    .topnav.responsive .icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    .topnav.responsive a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+}
+
+/* ul {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-top: 24px;
+    margin: 25px;
+    margin-right: 70px
+}
+
+li a:hover {
+    color:#ebebeb;
+    text-decoration: none;
+    background-color: #111;
+} */
+
+
+.silder {
+    width: 100%;
+    background-color: teal;
+}
+
+.Nproduct {
+    width: 100%;
+    height: 120px;
+
+}
+
+.Nproduct pre {
+    text-align: center;
+    font-size: 24px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    display: block;
+    padding-top: 20px;
+
+}
+
+.Product-hit {
+    height: 300px;
+    overflow: auto;
+}
+
+.first {
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    margin-top: 25px;
+    float: left;
+}
+
+.Second {
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    float: right;
+    margin-top: 25px;
+   
+   
+}
+.thired{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    margin-top: 25px;
+    float: left;
+}
+.four{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    float: right;
+    margin-top: 25px;
+}
+.five{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    margin-top: 25px;
+    float: left;
+}
+.six{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    float: right;
+    margin-top: 25px;
+}
+.seven{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    margin-top: 25px;
+    float: left;
+}
+.eight{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    float: right;
+    margin-top: 25px;
+}
+.nine{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    margin-top: 25px;
+    float: left;
+}
+.ten{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    float: right;
+    margin-top: 25px;
+}
+.elven{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    margin-top: 25px;
+    float: left;
+}
+.twelve{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    float: right;
+    margin-top: 25px;
+}
+.thaten{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    margin-top: 25px;
+    float: left;
+}
+.fouten{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    float: right;
+    margin-top: 25px;
+}
+.fivten{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    margin-top: 25px;
+    float: left;
+}
+.sixteen{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    float: right;
+    margin-top: 25px;
+}
+.seventen{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    margin-top: 25px;
+    float: left;
+}
+.eighteen{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    float: right;
+    margin-top: 25px;
+}
+.nineten{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    margin-top: 25px;
+    float: left;
+}
+.twenty{
+    width: 49%;
+    height: 250px;
+    background:#ebebeb;
+    float: right;
+    margin-top: 25px;
+}
+footer{
+    width: 100%;
+    background-color:#333;
+	height:100px;
+}
