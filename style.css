@@ -135,7 +135,7 @@ li a:hover {
     border-bottom: 2.9px solid #ebebeb;
 }
 #onerow {
-    border: 1px solid black;
+  
     overflow: auto;
     padding: 25px;
     
@@ -168,12 +168,7 @@ h2{
 }
 
 .Second {
-    width: 256px;
-    
-    
-   
-   
-   
+    width: 256px; 
 }
 .thired{
     width: 256px;
@@ -190,5 +185,6 @@ h2{
 footer{
     width: 100%;
     background-color:#333;
-	height:100px;
+    height:100px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
