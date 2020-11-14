@@ -126,20 +126,27 @@ li a:hover {
     padding-top: 20px;
 
 }
-
+.heading{
+    width: 250px;
+    margin: 10px auto 10px auto;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    text-align: center;
+    border-top: 2.9px solid #ebebeb;
+    border-bottom: 2.9px solid #ebebeb;
+}
 .Product-hit {
-    height: 300px;
     overflow: auto;
 }
 
 .first {
     width: 49%;
-    height: 250px;
     background:#ebebeb;
     margin-top: 25px;
     float: left;
 }
-
+.first img{
+    margin-left: 45px;
+}
 .Second {
     width: 49%;
     height: 250px;
