@@ -134,154 +134,59 @@ li a:hover {
     border-top: 2.9px solid #ebebeb;
     border-bottom: 2.9px solid #ebebeb;
 }
-.Product-hit {
+#onerow {
+    border: 1px solid black;
     overflow: auto;
+    padding: 25px;
+    
+}
+h2 a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+h2 a:hover{
+    text-decoration: none;
+    
+    
+}
+h2{
+    color: black;
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.first,.Second,.thired,.four{
+    margin: 20px 40px 20px 45px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background:#ebebeb;
+    
+}
+.first {
+    width: 256px;
+    background:#ebebeb;
+
 }
 
-.first {
-    width: 49%;
-    background:#ebebeb;
-    margin-top: 25px;
-    float: left;
-}
-.first img{
-    margin-left: 45px;
-}
 .Second {
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    float: right;
-    margin-top: 25px;
+    width: 256px;
+    
+    
+   
    
    
 }
 .thired{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    margin-top: 25px;
-    float: left;
+    width: 256px;
+    
+    
 }
 .four{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    float: right;
-    margin-top: 25px;
+    width: 256px;
+   
+    
+  
 }
-.five{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    margin-top: 25px;
-    float: left;
-}
-.six{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    float: right;
-    margin-top: 25px;
-}
-.seven{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    margin-top: 25px;
-    float: left;
-}
-.eight{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    float: right;
-    margin-top: 25px;
-}
-.nine{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    margin-top: 25px;
-    float: left;
-}
-.ten{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    float: right;
-    margin-top: 25px;
-}
-.elven{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    margin-top: 25px;
-    float: left;
-}
-.twelve{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    float: right;
-    margin-top: 25px;
-}
-.thaten{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    margin-top: 25px;
-    float: left;
-}
-.fouten{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    float: right;
-    margin-top: 25px;
-}
-.fivten{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    margin-top: 25px;
-    float: left;
-}
-.sixteen{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    float: right;
-    margin-top: 25px;
-}
-.seventen{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    margin-top: 25px;
-    float: left;
-}
-.eighteen{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    float: right;
-    margin-top: 25px;
-}
-.nineten{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    margin-top: 25px;
-    float: left;
-}
-.twenty{
-    width: 49%;
-    height: 250px;
-    background:#ebebeb;
-    float: right;
-    margin-top: 25px;
-}
+
 footer{
     width: 100%;
     background-color:#333;
