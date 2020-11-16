@@ -141,7 +141,7 @@ li a:hover {
 }
 
 #onerow {
-
+    
     overflow: auto;
     padding: 25px;
 
@@ -170,7 +170,7 @@ h2 {
 .Second,
 .thired,
 .four {
-    margin: 20px 40px 20px 45px;
+    margin: 15px 20px 15px 40px;
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
     background: #ebebeb;
 
